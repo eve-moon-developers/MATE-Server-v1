@@ -1,0 +1,7 @@
+This repository contains the golang code for the server.
+
+The server has 2 priorities:
+	1) Facilitating API calls
+	2) Running scheduled tasks
+
+
